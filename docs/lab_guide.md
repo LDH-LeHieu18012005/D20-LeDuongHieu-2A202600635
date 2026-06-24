@@ -1,5 +1,7 @@
 # Lab Guide: Multi-Agent Research System
 
+Student: Lê Dương Hiếu - 2A202600635
+
 ## Scenario
 
 Bạn cần xây dựng một research assistant có thể nhận câu hỏi dài, tìm thông tin, phân tích và viết câu trả lời cuối cùng. Lab yêu cầu so sánh hai cách làm:
